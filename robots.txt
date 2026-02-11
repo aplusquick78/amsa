@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amsa.8222quick.com/sitemap.xml
+
+
+
